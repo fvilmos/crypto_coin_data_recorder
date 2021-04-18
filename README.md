@@ -39,4 +39,5 @@ There is also a test application available, to visualize the formatted dictionar
 
 ## Links
 [CoinDesk API](https://www.coindesk.com/coindesk-api)
+
 /Enjoy.
