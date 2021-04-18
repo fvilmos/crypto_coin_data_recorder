@@ -7,7 +7,7 @@ The following data will be stored for the chosen crypto coins:
 timestemp, name, currency, price, change24Hr_percent, change24Hr_value, change24Hr_low, change24Hr_high
 ```
 <p align="center"> 
-  <img src="./info/coin_db2.jpg" alt="" width="480"></a>
+  <img src="./info/coin_db2.jpg" alt="" width="640"></a>
 </p>
 
 Note: a timestamp is a DateTime object converted to a timestamp for easier storage, can be decoded with:
